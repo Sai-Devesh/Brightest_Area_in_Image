@@ -1,0 +1,1 @@
+# Brightest_Area_in_Image
